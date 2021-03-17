@@ -1,7 +1,7 @@
 # whatsapp-cloud-word
 
 
-`docker-compose up`
+`docker-compose up --build`
 
 ### TODO
 
